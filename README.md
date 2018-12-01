@@ -7,6 +7,7 @@
 
 ## Admin
     * I want to audit and verify the integrity of teachers and students (verify @student.uva)
+    * I must be able to run regular maintanence and checks on the web service.
 
 
 ## Teachers

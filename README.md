@@ -23,6 +23,7 @@
       website. For eg: I am a new teacher and I do not have any idea how much I should ask for my serves rendered. The website
       could give me suggestions for the average/ optimal pay of the teachers already in the system. For eg2: I am a returning 
       teacher and I have a good reputation and therefore I would like to charge more than the average. This should be possible.
+    * I need help and support from the admins if I am in need.
 
 ## Students
     * I want to see Teachers as fast and easy as possible within a certain radius of my location
@@ -32,3 +33,6 @@
     * I want to message Teachers (a)synchronously 
     * I want to enter my temporal and geographical availability
     * I want to have realtime insights into the temporal and geographical availability of a Teacher
+    * I want to be able to file a complaint on a teacher for fraud or sexual misconduct and maybe also be able to block him/her 
+      from my further searches.
+    * I need help and support for the service 
